@@ -45,7 +45,8 @@ scikit-learn · PyTorch · XGBoost
 ### Elsewhere
 
 [Portfolio](https://skull1313.github.io/Ryanportfolio.github.io/) &nbsp;·&nbsp;
-[LinkedIn](https://www.linkedin.com/in/ryan-kemajou) &nbsp;·&nbsp;
-ryantresor1.k@hotmail.com
+[LinkedIn](https://www.linkedin.com/in/ryan-kemajou)
+
+Best reached through LinkedIn.
 
 Open to full-time data science, ML, and AI engineering roles starting December 2026.
